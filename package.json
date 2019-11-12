@@ -1,0 +1,28 @@
+{
+    "name": "MERNtest",
+    "version": "1.0.0",
+    "description": "Udemy; React Front to Back 2019; Contact Keeper App",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mathews225/MERNtest.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mathews225/MERNtest/issues"
+    },
+    "homepage": "https://github.com/mathews225/MERNtest#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "config": "^3.2.4",
+        "express": "^4.17.1",
+        "express-validator": "^6.2.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.7.10"
+    }
+}
