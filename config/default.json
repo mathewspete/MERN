@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://pmathews-hci:s7Jyp7BC9e.wd.-@hci-pm-rmju6.gcp.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://pmathews-hci:s7Jyp7BC9e.wd.-@hci-pm-rmju6.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
